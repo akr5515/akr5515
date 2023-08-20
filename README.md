@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Angkon Kumar Roy</h1>
 <h3 align="center">A passionate Full-stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akr5515&label=Profile%20views&color=0e75b6&style=flat" alt="akr5515" /> </p>
-
 - 🔭 I have recently finished working on behalf of BJIT on [Pocketalk Ventana](https://www.pocketalk.com/pocketalk-ventana/)
 
 - 👯 I’m looking to collaborate on **MERN projects.**

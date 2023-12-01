@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I'm Angkon Kumar Roy</h1>
 <h3 align="center">A passionate Full-stack developer.</h3>
 
-- 🔭 I have recently finished working on behalf of BJIT on [Pocketalk Ventana](https://www.pocketalk.com/pocketalk-ventana/)
-
-- 👯 I’m looking to collaborate on **MERN projects.**
+- 👯 I’m looking to collaborate on **Full Stack(WEB) Projects.**
 
 - 💬 Ask me about **React, NodeJS**
 

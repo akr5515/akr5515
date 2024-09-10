@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Angkon Kumar Roy</h1>
 <h3 align="center">A passionate Full-stack developer.</h3>
 
--  I’m looking to collaborate on **Full Stack(WEB) Projects.**
+-  I’m collaborating on **Full Stack(WEB) Projects.**
 
-- 💬 Ask me about **React, NodeJS**
+- 💬 Ask me about **React, NodeJS, Shopify, Remix**
 
 - 📫 How to reach me **angkonkumar15@gmail.com**
 
